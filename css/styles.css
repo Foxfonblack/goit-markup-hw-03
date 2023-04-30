@@ -29,7 +29,7 @@
     color: var(--primary-color-text);
   }
   
-  /* --------Header-------- */
+  /* Header */
   .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -67,10 +67,9 @@
   .contact-link:focus {
     color: #404bbf;
   }
+  /* Header */
   
-  /* --------/Header-------- */
-  
-  /* ---------Hero-----------*/
+  /* Hero */
   .hero {
     background-color: var(--primary-color-text);
   }
@@ -107,9 +106,9 @@
     color: #ffffff;
     background-color: #404bbf;
   }
-  /* --------/Hero---------- */
+  /* Hero */
   
-  /* --------SEction 1. 2. 3.------- */
+  /* Sections */
   .card {
     background-color: #ffffff;
   }
@@ -130,10 +129,9 @@
   .our-team {
     background-color: #f4f4fd;
   }
+  /* Sections */
   
-  /* --------/SEction 1. 2. 3.------- */
-  
-  /* ---------Footer ----------*/
+  /* Footer */
   .footer-style {
     background-color: var(--primary-color-text);
   }
@@ -143,5 +141,4 @@
   .footer-desc {
     color: var(--accent-color-secondary);
   }
-  
-  /* ---------/Footer ----------*/
+  /* Footer */
