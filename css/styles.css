@@ -29,7 +29,7 @@
     color: var(--primary-color-text);
   }
   
-  /* --------Header-------- */
+  /* Header */
   .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -68,9 +68,9 @@
     color: #404bbf;
   }
   
-  /* --------/Header-------- */
+  /* Header */
   
-  /* ---------Hero-----------*/
+  /* Hero */
   .hero {
     background-color: var(--primary-color-text);
   }
@@ -107,9 +107,9 @@
     color: #ffffff;
     background-color: #404bbf;
   }
-  /* --------/Hero---------- */
+  /* Hero */
   
-  /* --------SEction 1. 2. 3.------- */
+  /* Sections */
   .card {
     background-color: #ffffff;
   }
@@ -131,9 +131,9 @@
     background-color: #f4f4fd;
   }
   
-  /* --------/SEction 1. 2. 3.------- */
+  /* Sctions */
   
-  /* ---------Footer ----------*/
+  /* Footer */
   .footer-style {
     background-color: var(--primary-color-text);
   }
@@ -144,4 +144,4 @@
     color: var(--accent-color-secondary);
   }
   
-  /* ---------/Footer ----------*/
+  /* Footer */
