@@ -11,6 +11,7 @@
   }
   .list {
     list-style: none;
+    background-color: #ffffff;
   }
   .link {
     text-decoration: none;
