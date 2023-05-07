@@ -58,7 +58,7 @@ img {
   padding-bottom: 120px;
 }
 
-/* -----------Components---------- */
+/* -- Components -- */
 .section-title {
   margin-bottom: 72px;
   font-weight: 700;
@@ -69,14 +69,13 @@ img {
   line-height: 1.11;
   color: var(--primary-color-text);
 }
-/* ------------/Components-------------- */
+/* -- Components -- */
 
-/* --------Header-------- */
+/* -- Header -- */
 .page-header {
   display: flex;
   align-items: center;
-  /* padding-top: 24px;
-  padding-bottom: 24px; */
+
   border-bottom: 1px solid #e7e9fc;
 }
 .page-header-container {
@@ -86,7 +85,7 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  /* column-gap: 76px; */
+ 
 }
 .logo {
   margin-right: 76px;
@@ -139,9 +138,9 @@ img {
   color: #404bbf;
 }
 
-/* --------/Header-------- */
+/* -- Header -- */
 
-/* ---------Hero-----------*/
+/* --- Hero --*/
 .hero {
   background-color: var(--primary-color-text);
   padding-top: 188px;
@@ -198,21 +197,10 @@ img {
   background-color: #404bbf;
   border: 1px solid transparent;
 }
-/* --------/Hero---------- */
+/* -- Hero -- */
 
-/* --------SEction 1. 2. 3. Portfolio------- */
-/* .visually-hidden {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-} */
+/* -- Sections Portfolio -- */
+
 .section-one-list {
   gap: var(--set-gap);
   display: flex;
@@ -227,7 +215,7 @@ img {
 .section-two-list-item {
   flex-basis: calc((100%-72) / 3);
 
-  /* outline: 1px solid tomato; */
+ 
 }
 .card-list {
   display: flex;
@@ -270,7 +258,7 @@ img {
 .our-team {
   background-color: #f4f4fd;
 }
-/* ------------Portfolio----------- */
+/* -- Portfolio -- */
 
 .list-button-portfolio {
   display: flex;
@@ -284,13 +272,11 @@ img {
   flex-wrap: wrap;
   column-gap: var(--set-gap);
   row-gap: 48px;
-  /* margin-left: calc(-1 * var(--set-gap));
-  margin-top: -48px; */
+  
 }
 .list-card-portfolio-item {
   flex-basis: calc((100% - 48px) / 3);
-  /* margin-left: var(--set-gap);
-  margin-top: 48px; */
+  
 }
 
 .card-portfolio-content {
@@ -305,9 +291,7 @@ img {
 
 
 
-/* --------/Section 1. 2. 3. Portfolio------- */
-
-/* ---------Footer ----------*/
+/* -- Footer --*/
 .footer-style {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -320,10 +304,10 @@ img {
 .footer-desc {
   color: var(--accent-color-secondary);
   width: 264px;
-  /* margin-top: 16px; */
+ 
 }
 .logo-footer {
   display: inline-block;
   margin-bottom: 16px;
 }
-/* ---------/Footer ----------*/
+/* --/Footer --*/
